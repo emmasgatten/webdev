@@ -1,0 +1,42 @@
+/*Emma Gatten, last edited on April 12*/
+body{
+    background-color: azure;
+    color: darkslateblue;
+}
+h1{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    font-weight:bold;
+    color: darkslateblue;
+}
+
+div{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.header{
+    resize: horizontal;
+    color: darkslateblue;
+}
+.tableauPlaceholder{
+    resize:both;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    size:smaller;
+}
+.footer{
+    resize: horizontal;
+    color: darkslateblue;
+}
+.tableauLinks{
+    text-align: left;
+}
+p{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.copyright{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

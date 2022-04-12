@@ -1,0 +1,25 @@
+/*Emma Gatten, last edited on April 12*/
+p{
+    font-family:'Times New Roman', Times, serif
+}
+h4{
+    font-weight: lighter;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.aligned{
+    text-align: center;
+}
+body{
+    background-color:azure;
+}
+h5{
+    text-align: center;
+    font-weight: lighter;
+    color: darkgreen;
+}
+.links{
+    color: blue;
+}
